@@ -5,9 +5,4 @@ node_modules
 *.lock
 *.log
 
-/dist
-/secure
-/index.d.ts
-/single
-
 /bench/**/bundle.js
